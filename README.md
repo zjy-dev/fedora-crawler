@@ -1,6 +1,6 @@
 # Fedora Crawler
 
-Crawler fedora rpm packages.
+Crawl fedora rpm packages' url.
 
 Current data is crawled on **2024.12.9 18:30, UTC+08:00**.
 
